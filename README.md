@@ -10,3 +10,9 @@ This vt.py can you use to get the vehicle-positions of the NS-trains in a /tmp/d
 7) Check if tmp/data.xml is updated.
 
 Have fun!
+
+ToDo:
+
+- Rewrite of this code
+- Using Docker
+- Maybe Redis is temporary save the data
